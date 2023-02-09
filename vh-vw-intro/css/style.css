@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 5vw;
+}
+
+.container {
+    height: 100vh;
+}
+
+.container-1 {
+    background-color: lightblue;
+}
+
+.container-2 {
+    background-color: lightgreen;
+}
+
+.container-3  {
+    background-color: lightcoral;
+}
